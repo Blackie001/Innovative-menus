@@ -20,7 +20,7 @@ Perfect for portfolios, landing pages, creative agencies, personal sites, or any
 ## 🎥 Demo
 
 Live demo:  
-https://blackie001.github.io/innovative-menu/
+https://blackie001.github.io/Innovative-menus/
 
 
 ---
